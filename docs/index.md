@@ -28,44 +28,20 @@ I chose a conversational tone given the target audience, but scaled the screensh
 1.	Open a new Microsoft Edge window.
 
 1.	In the search bar at the top, type **Google Chrome**, then press **Enter** on your keyboard.
-
-                                 Image Placeholder Line
-
-                                 *Above: Microsoft Edge search bar*
  
 1.	Click **Download Now**.
-
-                                 Image Placeholder Line
-
-                                 *Above: Search results*
  
 1.	A new page opens. Click the **Download Chrome** button.
-
-                                 Image Placeholder Line
-
-                                 *Above: Google Chrome website with download button*
   
 1.	The download begins automatically. If it doesn’t, click **download Chrome manually**. 
-
-                                 Image Placeholder Line
-
-                                 *Above: Chrome thank you message and manual download button*
  
 1.	Once the download is complete, the file shows up under the **Downloads** button at the top right of the page. Click the button to show the downloaded file.
-
-                                 Image Placeholder Line
-
-                                 *Above: List of recently downloaded files*
  
     Then, click **Open file**.
 
 1.	Your computer will ask if you want to allow changes to be made to your computer. Select **Yes**. 
  
 1.	Once the installation is complete a Google Chrome page opens automatically with the option to set Chrome as your default browser.
-
-                                 Image Placeholder Line
-                                 
-                                 *Above: Completed download webpage with a request to set Chrome as the default browser*
    
     After you click that button, you’ll get a message congratulating you on setting it as your default browser but there is nothing else you need to do. 
 
@@ -74,42 +50,18 @@ If you *don’t* get an option to set Chrome as your default browser, you can us
 1.	Open the computer’s **Start** menu.
 
 1.	Click **Settings** or the **gear icon** to open the Settings menu.
-
-                                 Image Placeholder Line
-                                 
-                                 *Above: Start menu*
   
 1.	Click **Apps** to open the Application Settings menu.
-                         
-                                 Image Placeholder Line
-                                 
-                                 *Above: Settings menu*
   
 1.	On the left-hand side of the page, click **Default Apps**.
-
-                                 Image Placeholder Line
-                                 
-                                 *Above: Apps Menu*
  
     This opens the page to set your default application for several programs on your computer.
 
 1. Scroll down to find **Web Browser**.
-
-                                 Image Placeholder Line
-                                 
-                                 *Above: Default Apps list*
  
 1.	Click the box to show all default browser options.
-
-                                 Image Placeholder Line
-                                 
-                                 *Above: Default browser options*
   
 1.	Select **Google Chrome**. The menu closes and the change is automatically reflected on your list of default applications:
-
-                                 Image Placeholder Line
-                                 
-                                 *Above: Default browser showing Chrome as the selection*
   
     You can close your settings menu using the **X** at the top right of the screen and you’re all set!
 
