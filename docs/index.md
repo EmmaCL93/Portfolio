@@ -28,6 +28,8 @@ I chose a conversational tone given the target audience, but scaled the screensh
 1.	Open a new Microsoft Edge window.
 
 1.	In the search bar at the top, type **Google Chrome**, then press **Enter** on your keyboard.
+
+![Screenshot](Images/Screenshot.png)
  
 1.	Click **Download Now**.
  
