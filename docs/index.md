@@ -29,21 +29,31 @@ I chose a conversational tone given the target audience, but scaled the screensh
 
 1.	In the search bar at the top, type **Google Chrome**, then press **Enter** on your keyboard.
 
-![Screenshot](Images/Screenshot.png)
+    ![Microsoft Edge Search Bar](<Images/Step 2. - Microsoft Edge Search Bar.png> "Microsoft Edge Search Bar")
  
 1.	Click **Download Now**.
+
+    ![Search Result - Download Button](<Images/Step 3. - Search Results - Download Button.png>)
  
 1.	A new page opens. Click the **Download Chrome** button.
+
+    ![Chrome Website - Download Button](<Images/Step 4. - Chrome Website - Download Button.png>)
   
-1.	The download begins automatically. If it doesn’t, click **download Chrome manually**. 
+1.	The download begins automatically. If it doesn’t, click **download Chrome manually**.
+
+    ![Thank You Message and Manual Download Button](<Images/Step 5. - Thank You Msg - Download Manually.png>)
  
 1.	Once the download is complete, the file shows up under the **Downloads** button at the top right of the page. Click the button to show the downloaded file.
+
+    ![Downloads Folder](<Images/Step 6. - Downloads Folder.png>)
  
     Then, click **Open file**.
 
 1.	Your computer will ask if you want to allow changes to be made to your computer. Select **Yes**. 
  
 1.	Once the installation is complete a Google Chrome page opens automatically with the option to set Chrome as your default browser.
+
+    ![Default Browser Setup Page](<Images/Step 8. - Default Browser Setup Page.png>)
    
     After you click that button, you’ll get a message congratulating you on setting it as your default browser but there is nothing else you need to do. 
 
@@ -52,18 +62,30 @@ If you *don’t* get an option to set Chrome as your default browser, you can us
 1.	Open the computer’s **Start** menu.
 
 1.	Click **Settings** or the **gear icon** to open the Settings menu.
-  
+
+    ![Settings Menu](<Images/Step 11. - Settings Menu.png>)
+    
 1.	Click **Apps** to open the Application Settings menu.
+
+    ![Settings Menu](<Images/Step 11. - Settings Menu.png>)
   
 1.	On the left-hand side of the page, click **Default Apps**.
+
+    ![Apps Menu](<Images/Step 12. - Apps Menu.png>)
  
     This opens the page to set your default application for several programs on your computer.
 
 1. Scroll down to find **Web Browser**.
+
+    ![Default Apps List](<Images/Step 13. - Default Apps List.png>)
  
 1.	Click the box to show all default browser options.
+
+    ![Default Browser Options](<Images/Step 14. - Default Browser Options.png>)
   
 1.	Select **Google Chrome**. The menu closes and the change is automatically reflected on your list of default applications:
+
+    ![Default Browser Set to Chrome](<Images/Step 15. - Chrome As Default Browser.png>)
   
     You can close your settings menu using the **X** at the top right of the screen and you’re all set!
 
