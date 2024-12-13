@@ -31,7 +31,7 @@ I chose a conversational tone given the target audience, but scaled the screensh
     
     <figure markdown>
      ![Microsoft Edge Search Bar](<Images/Step 2. - Microsoft Edge Search Bar.png>)
-     <fig caption>Microsoft Edge Search Bar</fig caption>
+     <figcaption>Microsoft Edge Search Bar</figcaption>
     </figure>  
  
 1.	Click **Download Now**.
@@ -64,19 +64,31 @@ If you *don’t* get an option to set Chrome as your default browser, you can us
 
 1.	Open the computer’s **Start** menu.
 
+    ![Start Menu](<Images/Step 10. - Start Menu.png>)
+
 1.	Click **Settings** or the **gear icon** to open the Settings menu.
+
+    ![Settings Menu](<Images/Step 11. - Settings Menu.png>)
     
 1.	Click **Apps** to open the Application Settings menu.
+
+    ![Applications Menu](<Images/Step 12. - Apps Menu.png>)
   
 1.	On the left-hand side of the page, click **Default Apps**.
  
     This opens the page to set your default application for several programs on your computer.
 
-1. Scroll down to find **Web Browser**.
+1.  Scroll down to find **Web Browser**.
+
+     ![Default Apps List](<Images/Step 13. - Default Apps List.png>)
  
 1.	Click the box to show all default browser options.
+
+    ![Default Browser Options](<Images/Step 14. - Default Browser Options.png>)
   
 1.	Select **Google Chrome**. The menu closes and the change is automatically reflected on your list of default applications:
+
+    ![Chrome As Default Browser](<Images/Step 15. - Chrome As Default Browser.png>)
   
     You can close your settings menu using the **X** at the top right of the screen and you’re all set!
 
